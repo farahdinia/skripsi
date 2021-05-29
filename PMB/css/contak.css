@@ -1,0 +1,19 @@
+/*untuk layar device berukuran kecil*/
+@media screen and (min-width: 450px) {
+   .card-img-top {
+   width: : 5px;
+   }
+
+}
+ 
+/*untuk layar device berukuran sedang*/
+@media screen and (min-width: 550px) {
+ 
+.card-img-top {
+   width: : 10px;
+   }
+ 
+/*untuk layar device berukuran besar*/
+@media screen and (min-width: 800px) {
+   
+}
